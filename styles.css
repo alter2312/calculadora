@@ -90,4 +90,5 @@ h1 {
   font-weight: bold;
   outline: none;
   text-align: right;
+  overflow: hidden;
 }
